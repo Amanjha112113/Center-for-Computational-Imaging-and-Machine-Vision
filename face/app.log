@@ -1,0 +1,119 @@
+2025-08-25 21:03:50 - root - ERROR - Failed to load model weights: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from ./weights/det_10g.onnx failed:Load model ./weights/det_10g.onnx failed. File doesn't exist
+2025-08-25 21:08:00 - root - ERROR - Failed to load model weights: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from ./weights/det_10g.onnx failed:Load model ./weights/det_10g.onnx failed. File doesn't exist
+2025-08-25 21:37:02 - root - ERROR - Failed to load model weights: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from ./weights/det_10g.onnx failed:Load model ./weights/det_10g.onnx failed. File doesn't exist
+2025-08-25 21:38:34 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-25 21:38:34 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-25 21:38:34 - root - INFO - Building face database from images...
+2025-08-25 21:38:34 - root - INFO - Added face for: Joey
+2025-08-25 21:38:34 - root - INFO - Added face for: Chandler
+2025-08-25 21:38:35 - root - INFO - Added face for: Phoebe
+2025-08-25 21:38:35 - root - INFO - Added face for: Ross
+2025-08-25 21:38:35 - root - INFO - Added face for: Monica
+2025-08-25 21:38:35 - root - INFO - Added face for: Rachel
+2025-08-25 21:38:35 - root - INFO - Face database saved with 6 faces
+2025-08-25 21:43:03 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-25 21:43:03 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-25 21:43:03 - root - INFO - Loaded face database with 6 faces
+2025-08-25 21:43:03 - root - INFO - Loaded face database from disk.
+2025-08-25 21:43:33 - root - INFO - Processed 103 frames.
+2025-08-25 21:45:01 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-25 21:45:01 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-25 21:45:01 - root - INFO - Loaded face database with 6 faces
+2025-08-25 21:45:01 - root - INFO - Loaded face database from disk.
+2025-08-25 21:45:15 - root - INFO - Processed 46 frames.
+2025-08-25 21:47:16 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-25 21:47:16 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-25 21:47:16 - root - INFO - Loaded face database with 6 faces
+2025-08-25 21:47:16 - root - INFO - Loaded face database from disk.
+2025-08-25 21:47:31 - root - INFO - Processed 50 frames.
+2025-08-25 21:47:38 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-25 21:47:38 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-25 21:47:38 - root - INFO - Loaded face database with 6 faces
+2025-08-25 21:47:38 - root - INFO - Loaded face database from disk.
+2025-08-25 21:54:47 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-25 21:54:47 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-25 21:54:47 - root - INFO - Building face database from images...
+2025-08-25 21:54:47 - root - INFO - Added face for: Aman_o
+2025-08-25 21:54:47 - root - INFO - Face database saved with 1 faces
+2025-08-25 21:55:01 - root - INFO - Processed 42 frames.
+2025-08-25 21:55:47 - root - INFO - Test file logging message
+2025-08-25 21:56:20 - root - INFO - Testing file creation
+2025-08-25 22:02:41 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-25 22:02:41 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-25 22:02:41 - root - INFO - Building face database from images...
+2025-08-25 22:02:41 - root - INFO - Added face for: Aman_o
+2025-08-25 22:02:42 - root - INFO - Added face for: Asim
+2025-08-25 22:02:42 - root - INFO - Face database saved with 2 faces
+2025-08-25 22:06:53 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-25 22:06:53 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-25 22:06:53 - root - INFO - Loaded face database with 2 faces
+2025-08-25 22:06:53 - root - INFO - Loaded face database from disk.
+2025-08-25 22:07:44 - root - INFO - Processed 190 frames.
+2025-08-25 22:32:18 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-25 22:32:18 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-25 22:32:18 - root - INFO - Loaded face database with 2 faces
+2025-08-25 22:32:18 - root - INFO - Loaded face database from disk.
+2025-08-25 22:32:36 - root - INFO - Processed 46 frames.
+2025-08-25 22:51:41 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-25 22:51:41 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-25 22:51:41 - root - INFO - Building face database from images...
+2025-08-25 22:51:41 - root - INFO - Added face for: Aman_o
+2025-08-25 22:51:41 - root - INFO - Added face for: Shisir
+2025-08-25 22:51:42 - root - INFO - Added face for: Asim
+2025-08-25 22:51:42 - root - INFO - Face database saved with 3 faces
+2025-08-25 22:52:29 - root - INFO - Processed 143 frames.
+2025-08-26 08:51:36 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-26 08:51:37 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-26 08:51:37 - root - INFO - Building face database from images...
+2025-08-26 08:51:37 - root - INFO - Added face for: Aman_o
+2025-08-26 08:51:37 - root - INFO - Added face for: Shisir
+2025-08-26 08:51:37 - root - INFO - Added face for: Atheep
+2025-08-26 08:51:38 - root - INFO - Added face for: Asim
+2025-08-26 08:51:38 - root - INFO - Face database saved with 4 faces
+2025-08-26 08:51:58 - root - INFO - Processed 63 frames.
+2025-08-26 10:46:25 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-26 10:46:25 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-26 10:46:25 - root - INFO - Building face database from images...
+2025-08-26 10:46:25 - root - INFO - Added face for: Aman_o
+2025-08-26 10:46:25 - root - INFO - Added face for: Shisir
+2025-08-26 10:46:25 - root - INFO - Added face for: Atheep
+2025-08-26 10:46:25 - root - INFO - Added face for: Bharani
+2025-08-26 10:46:26 - root - INFO - Added face for: Deepika
+2025-08-26 10:46:26 - root - INFO - Added face for: Priya
+2025-08-26 10:46:26 - root - INFO - Added face for: Anjali
+2025-08-26 10:46:26 - root - INFO - Added face for: Asim
+2025-08-26 10:46:26 - root - INFO - Face database saved with 8 faces
+2025-08-26 10:50:40 - root - INFO - Processed 867 frames.
+2025-08-26 10:54:36 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-26 10:54:36 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-26 10:54:36 - root - INFO - Building face database from images...
+2025-08-26 10:54:37 - root - INFO - Added face for: Gnanaparkash
+2025-08-26 10:54:37 - root - INFO - Added face for: Aman_o
+2025-08-26 10:54:37 - root - INFO - Added face for: Shisir
+2025-08-26 10:54:37 - root - INFO - Added face for: Atheep
+2025-08-26 10:54:38 - root - INFO - Added face for: Bharani
+2025-08-26 10:54:38 - root - INFO - Added face for: Deepika
+2025-08-26 10:54:38 - root - INFO - Added face for: Priya
+2025-08-26 10:54:38 - root - INFO - Added face for: Anjali
+2025-08-26 10:54:39 - root - INFO - Added face for: Asim
+2025-08-26 10:54:39 - root - INFO - Face database saved with 9 faces
+2025-08-26 10:55:08 - root - INFO - Processed 94 frames.
+2025-08-26 10:58:09 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-26 10:58:09 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-26 10:58:09 - root - INFO - Loaded face database with 9 faces
+2025-08-26 10:58:09 - root - INFO - Loaded face database from disk.
+2025-08-26 21:23:42 - models.arcface - INFO - Initializing ArcFace model from ./weights/w600k_mbf.onnx
+2025-08-26 21:23:42 - models.arcface - INFO - Successfully initialized face encoder from ./weights/w600k_mbf.onnx (embedding size: 512)
+2025-08-26 21:23:42 - root - INFO - Building face database from images...
+2025-08-26 21:23:43 - root - INFO - Added face for: Gnanaparkash
+2025-08-26 21:23:43 - root - INFO - Added face for: Aman_o
+2025-08-26 21:23:43 - root - INFO - Added face for: Shisir
+2025-08-26 21:23:43 - root - INFO - Added face for: Bharani
+2025-08-26 21:23:44 - root - INFO - Added face for: Deepika
+2025-08-26 21:23:44 - root - INFO - Added face for: Priya
+2025-08-26 21:23:44 - root - INFO - Added face for: Shijal
+2025-08-26 21:23:44 - root - INFO - Added face for: Ateep
+2025-08-26 21:23:45 - root - INFO - Added face for: Anjali
+2025-08-26 21:23:45 - root - INFO - Added face for: Asim
+2025-08-26 21:23:45 - root - INFO - Face database saved with 10 faces
+2025-08-26 21:24:16 - root - INFO - Processed 104 frames.
